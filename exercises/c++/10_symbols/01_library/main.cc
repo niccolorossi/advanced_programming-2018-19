@@ -1,0 +1,15 @@
+#include <iostream>
+#include "include/hello.h"
+
+int main () {
+
+hello_world();
+
+hello_dummy();
+
+hello_foo();
+
+return 0;
+
+
+}
